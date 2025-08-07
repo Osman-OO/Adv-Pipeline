@@ -18,6 +18,6 @@ This project showcases professional-level data analytics capabilities through a 
 
 ## Contact
 
-**Osman Abdullahi** - Data Analyst & Business Intelligence Specialist
+**Osman Abdullahi** - Data Analyst
 - **Email**: Osmandabdullahi@gmail.com
 - **GitHub**: [github.com/Osman-OO](https://github.com/Osman-OO)
