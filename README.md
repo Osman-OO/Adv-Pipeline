@@ -2,7 +2,7 @@
 
 **A comprehensive, enterprise-grade data analytics platform for end-to-end data processing, statistical analysis, machine learning, and business intelligence.**
 
-> **Developed by Osman Abdullahi** - Data Analyst & Business Intelligence Specialist
+> **Developed by Osman Abdullahi** - Data Analyst
 
 ## Project Overview
 
@@ -18,6 +18,6 @@ This project showcases professional-level data analytics capabilities through a 
 
 ## Contact
 
-**Osman Abdullahi** - Data Analyst & Business Intelligence Specialist
+**Osman Abdullahi** - Data Analyst
 - **Email**: Osmandabdullahi@gmail.com
 - **GitHub**: [github.com/Osman-OO](https://github.com/Osman-OO)
